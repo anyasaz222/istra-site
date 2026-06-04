@@ -79,6 +79,7 @@ nav a:hover {
 }
 
 .card h2 {
+  font-weight: normal;
   color: #2e7d32;
   margin-bottom: 17px;
 }
