@@ -55,11 +55,13 @@ nav a:hover {
 
 .card img {
   width: 250px;
+  max-width: 100%;
   border-radius: 10px;
+  hight: auto;
 }
 @media (min-width: 769px) {
   .card img {
-    width: 350px;
+    width: 450px;
   }
 }
 
